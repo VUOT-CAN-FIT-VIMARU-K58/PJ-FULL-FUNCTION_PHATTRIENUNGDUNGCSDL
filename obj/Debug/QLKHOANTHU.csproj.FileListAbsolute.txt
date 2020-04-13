@@ -1,0 +1,9 @@
+C:\Users\KIEN MIC\Desktop\QLKHOANTHU\obj\Debug\QLKHOANTHU.csprojAssemblyReference.cache
+C:\Users\KIEN MIC\Desktop\QLKHOANTHU\obj\Debug\QLKHOANTHU.frmMain.resources
+C:\Users\KIEN MIC\Desktop\QLKHOANTHU\obj\Debug\QLKHOANTHU.Properties.Resources.resources
+C:\Users\KIEN MIC\Desktop\QLKHOANTHU\obj\Debug\QLKHOANTHU.csproj.GenerateResource.cache
+C:\Users\KIEN MIC\Desktop\QLKHOANTHU\bin\Debug\QLKHOANTHU.exe.config
+C:\Users\KIEN MIC\Desktop\QLKHOANTHU\bin\Debug\QLKHOANTHU.exe
+C:\Users\KIEN MIC\Desktop\QLKHOANTHU\bin\Debug\QLKHOANTHU.pdb
+C:\Users\KIEN MIC\Desktop\QLKHOANTHU\obj\Debug\QLKHOANTHU.exe
+C:\Users\KIEN MIC\Desktop\QLKHOANTHU\obj\Debug\QLKHOANTHU.pdb
